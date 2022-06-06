@@ -4,9 +4,9 @@
 - 😊 Estudante de desenvolvimento web full stack
 - 🔥 Sempre disposto a emfrentar novos desafios
 - 🌱 Me chame pra conversar ou trabalharmos em um projeto juntos!
-- 📫 Email: <a href="mailto:rasnheskisouzafelipe@gmail.com">contatofelipesouzarasnheski@gmail.com</a>
-- ❤️ Além de apaixonado por desenvolvimento de software, gosto muito de <br> animes e conhecer novas pessoas
-- 📚 "É difícil saber o que é possível ser feito até que você veja <br> alguém que possa ir além dos limites que você conhece" - Chad Fowler  
+- 📫 Email: <a href="mailto:contatofelipesouzarasnheski@gmail.com">contatofelipesouzarasnheski@gmail.com</a>
+- ❤️ Além de apaixonado por desenvolvimento de software gosto muito de animes, ler e conhecer novas pessoas
+- 📚 "É difícil saber o que é possível ser feito até que você veja alguém que possa ir além dos limites que você conhece" - Chad Fowler  
 
 ##
 <br>
@@ -25,17 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23333?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=React&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   
 ### Back-end
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### IDEs e ferramentas
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -45,7 +39,7 @@
 
 ### Fale comigo! 
 <div>
-  <a href="mailto:rasnheskisouzafelipe@gmail.com"><img
+  <a href="mailto:contatofelipesouzarasnheski@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-souza-rasnheski-180123231" target="_blank"><img
