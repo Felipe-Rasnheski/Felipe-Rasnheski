@@ -2,8 +2,8 @@
 
 - ✨ Tenho 19 anos, moro em Marcelância-MT 
 - 😊 Estudante de desenvolvimento web full stack
-- 🔥 Sempre disposto a emfrentar novos desafios
-- 🌱 Me chame pra conversar ou trabalharmos em um projeto juntos!
+- 🔥 Sempre disposto a enfrentar novos desafios
+- 🌱 Me chame pra conversar ou para trabalharmos em um projeto juntos!
 - 📫 Email: <a href="mailto:contatofelipesouzarasnheski@gmail.com">contatofelipesouzarasnheski@gmail.com</a>
 - ❤️ Além de apaixonado por desenvolvimento de software gosto muito de animes, ler e conhecer novas pessoas
 - 📚 "É difícil saber o que é possível ser feito até que você veja alguém que possa ir além dos limites que você conhece" - Chad Fowler  
@@ -36,6 +36,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  
+### Interesses
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=flat-square&logo=typescript)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Fale comigo! 
 <div>
