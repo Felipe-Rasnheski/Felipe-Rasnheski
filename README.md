@@ -25,7 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23333?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=React&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=flat-square&logo=typescript)
   
 ### Back-end
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
