@@ -51,6 +51,4 @@
 </div>
   
   ##
-  ![Snake animation](https://github.com/Felipe-Rasnheski/Felipe-Rasnheski/blob/output/github-contribution-grid-snake.svg)
-  
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media3.giphy.com/media/jsoMtBuP1Ahpu/giphy.gif?cid=ecf05e47651n1f0q7apfp1tkf2a16igfhstktypk39uyvxyi&rid=giphy.gif&ct=g)
