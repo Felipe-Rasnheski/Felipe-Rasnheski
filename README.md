@@ -49,6 +49,3 @@
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       target="_blank"></a>
 </div>
-  
-  ##
-  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media3.giphy.com/media/jsoMtBuP1Ahpu/giphy.gif?cid=ecf05e47651n1f0q7apfp1tkf2a16igfhstktypk39uyvxyi&rid=giphy.gif&ct=g)
